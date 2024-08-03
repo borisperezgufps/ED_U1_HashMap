@@ -405,7 +405,7 @@ public class PrincipalVista extends javax.swing.JFrame {
     }//GEN-LAST:event_btnCancelarCursoActionPerformed
 
     private void btnInhabilitarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnInhabilitarActionPerformed
-        controlador.inhabilitar():
+        controlador.inhabilitar();
     }//GEN-LAST:event_btnInhabilitarActionPerformed
 
     /**
